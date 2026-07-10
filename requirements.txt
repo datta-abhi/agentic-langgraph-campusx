@@ -1,0 +1,17 @@
+# Core LangGraph stack
+langgraph
+langchain
+langchain-core
+langsmith
+
+# Model providers
+langchain-google-genai
+langchain-groq
+langchain-openai
+
+# Utilities
+python-dotenv
+pydantic
+
+# Tokenizer (useful for token counting)
+tiktoken
